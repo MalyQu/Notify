@@ -1,2 +1,2 @@
 # Notify
-Website to note everything and create progres bar for projects 
+Website to note everything and create progress bar for projects 
